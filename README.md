@@ -1,0 +1,1 @@
+implementando o desafio da rinha do ano passado em GO.
